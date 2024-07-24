@@ -1,0 +1,9 @@
+L=[5,10,15,20,25,30,35,40]
+print(type(L))
+print("a[2]=",L[2]
+print("a[0:3]=",L[0:3]
+print("a[5:]=",L[5:]
+t=(5,'program',1+3j)
+print(type(t)
+print("t[1]=",t[1]
+print("t[0:3]="
